@@ -47,3 +47,11 @@ To use:
   $ ./check.py
   <you can also hard code the above in the script if you like>
 ```
+## Tips
+
+If you get an alert, go to the rite-aid scheduler page. If you open up that page
+in your browsers dev tools (View->Developer->Developer Tools in Chrome) and
+clicking on the days will show the times available without having to click
+through each morning/afternoon/evening options for each day.
+
+Thanks to Jacob for pointing this out. 
